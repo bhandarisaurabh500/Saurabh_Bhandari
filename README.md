@@ -9,6 +9,7 @@
 <h1 align="center">👋 Hi, I'm Saurabh Bhandari</h1>
 <h3 align="center">Full Stack Developer | Java • Node.js • React | MSc Computer Science</h3>
 <p align="center">📍 Ahilyanagar, Maharashtra, India<br/><b>Building • Learning • Shipping</b></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bhandarisaurabh500&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></p>
 <p align="center">I build practical web, mobile and management applications using modern full-stack technologies, with a focus on Java/Spring Boot, Node.js, React, databases and API-driven systems.</p>
 
 ---
