@@ -84,6 +84,10 @@ I am a Full Stack Developer passionate about building practical, real-world soft
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Saurabh Bhandari Most Used Languages" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&theme=tokyonight" />
 </div>
+<br/>
+<div align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhandarisaurabh500&theme=tokyonight&hide_border=true" />
+</div>
 
 ## 🎯 Current Focus
 
