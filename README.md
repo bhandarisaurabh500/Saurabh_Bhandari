@@ -1,40 +1,57 @@
-<h1 align="center">Hi 👋, I'm Saurabh Bhandari</h1>
-<h3 align="center">Java Full Stack Developer from Ahilyanagar, Maharashtra</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhandarisaurabh500&label=Profile%20views&color=0e75b6&style=flat" alt="bhandarisaurabh500" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/light.svg">
+  <img alt="Saurabh Bhandari GitHub Banner" src="https://raw.githubusercontent.com/bhandarisaurabh500/Saurabh_Bhandari/main/dark.svg">
+</picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhandarisaurabh500" alt="bhandarisaurabh500" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [CASAS Campus Navigator](https://campus-navigator-bice.vercel.app/)
+# 👋 Hi, I'm Saurabh Bhandari
 
-- 🌱 I’m currently learning **Advanced Spring Boot, React, TypeScript, Cloud & Android Development**
+### ☕ Java Full Stack Developer | MSc Computer Science
 
-- 👯 I’m looking to collaborate on [Open-source Java & React projects](https://github.com/bhandarisaurabh500)
+**Building • Learning • Shipping**
 
-- 🤝 I’m looking for help with [Advanced Full Stack & Cloud Development](https://github.com/bhandarisaurabh500)
+📍 Ahilyanagar, Maharashtra, India
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhandarisaurabh500](https://github.com/bhandarisaurabh500)
+<br/>
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+<a href="https://github.com/bhandarisaurabh500">
+  <img src="https://komarev.com/ghpvc/?username=bhandarisaurabh500&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-- 💬 Ask me about **Java, Spring Boot, React.js, REST APIs, MySQL, Android & Full Stack Development**
+<a href="https://github.com/bhandarisaurabh500?tab=followers">
+  <img src="https://img.shields.io/github/followers/bhandarisaurabh500?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+</a>
 
-- 📫 How to reach me **LinkedIn**
+<a href="https://github.com/bhandarisaurabh500?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
-- 📄 Know about my experiences [6-month Junior Java Developer Internship at Yess Infotech Pvt. Ltd. | Built Java, Spring Boot & Full Stack projects](6-month Junior Java Developer Internship at Yess Infotech Pvt. Ltd. | Built Java, Spring Boot & Full Stack projects)
+</div>
 
-- ⚡ Fun fact **I enjoy turning real-world problems into useful software projects.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-bhandari-7a66b831a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-bhandari-7a66b831a" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm **Saurabh Bhandari**, a Java Full Stack Developer and MSc Computer Science student focused on building practical, modern and user-friendly software.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhandarisaurabh500&show_icons=true&locale=en&layout=compact" alt="bhandarisaurabh500" /></p>
+I enjoy turning real-world problems into useful applications — from college management systems and healthcare platforms to campus navigation, English learning and business management solutions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhandarisaurabh500&show_icons=true&locale=en" alt="bhandarisaurabh500" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhandarisaurabh500&" alt="bhandarisaurabh500" /></p>
+```text
+┌──────────────────────────────────────────────────────┐
+│ Saurabh Bhandari                                    │
+├──────────────────────────────────────────────────────┤
+│ Role        → Java Full Stack Developer              │
+│ Education   → MSc Computer Science                   │
+│ Location    → Ahilyanagar, Maharashtra, India        │
+│ Focus       → Full Stack Development                  │
+│ Backend     → Java • Spring Boot • Node.js           │
+│ Frontend    → React • JavaScript • TypeScript        │
+│ Database    → MySQL • PostgreSQL • Supabase          │
+│ Mobile      → Kotlin • Android                       │
+│ Deployment  → Vercel • Docker                        │
+│ Status      → Building • Learning • Shipping         │
+└──────────────────────────────────────────────────────┘
