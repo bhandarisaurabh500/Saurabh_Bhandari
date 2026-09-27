@@ -6,8 +6,9 @@
   </picture>
 </div>
 
-<h1 align="center">👋 Hi, I'm Saurabh Bhandari</h1>
-<h3 align="center">Full Stack Developer | Java • Node.js • React | MSc Computer Science</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi,+I'm+Saurabh+Bhandari;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Java+%E2%80%A2+Node.js+%E2%80%A2+React" alt="Typing SVG" />
+</h1>
 <p align="center">📍 Ahilyanagar, Maharashtra, India<br/><b>Building • Learning • Shipping</b></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bhandarisaurabh500&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></p>
 <p align="center">I build practical web, mobile and management applications using modern full-stack technologies, with a focus on Java/Spring Boot, Node.js, React, databases and API-driven systems.</p>
@@ -72,6 +73,11 @@ I am a Full Stack Developer passionate about building practical, real-world soft
 | **Transport Management System**<br/><sub>Transport and logistics management.</sub> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | [🔗 Live Demo](https://sapna1231.vercel.app/) |
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhandarisaurabh500&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Saurabh Bhandari Trophies" />
+</div>
+<br/>
 
 <div align="center">
   <img alt="Saurabh Bhandari GitHub Statistics" height="180" src="https://github-stats-extended.vercel.app/api?username=bhandarisaurabh500&show_icons=true&hide_rank=true&theme=tokyonight" />
