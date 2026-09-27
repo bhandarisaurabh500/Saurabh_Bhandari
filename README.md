@@ -88,5 +88,5 @@ I am a Full Stack Developer passionate about building practical, real-world soft
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-bhandarisaurabh500-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhandarisaurabh500)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-bhandari-sb-7a66b831a)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhandarisaurabh500@gmail.com)
