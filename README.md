@@ -67,13 +67,14 @@ I am a Full Stack Developer passionate about building practical, real-world soft
 | **CASAS Campus Navigator**<br/><sub>Campus navigation and mapping application.</sub> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> | [🔗 Live Demo](https://campus-navigator-bice.vercel.app/) |
 | **HealthTrack Ahilyanagar**<br/><sub>Health-data and healthcare information.</sub> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/> | [🔗 Live Demo](https://healthtrack-ahilyanagar.vercel.app/) |
 | **BOLU English**<br/><sub>English learning application.</sub> | <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> | [🔗 Live Demo](https://bolu-english.vercel.app/) |
-| **NIFTY Options Screener**<br/><sub>Options market analysis and screening.</sub> | *-* | [🔗 Live Demo](https://nifty-options-screener.vercel.app/) |
-| **Transport Management System**<br/><sub>Transport and logistics management.</sub> | *-* | [🔗 Live Demo](https://sapna1231.vercel.app/) |
+| **NIFTY Options Screener**<br/><sub>Options market analysis and screening.</sub> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | [🔗 Live Demo](https://nifty-options-screener.vercel.app/) |
+| **Transport Management System**<br/><sub>Transport and logistics management.</sub> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | [🔗 Live Demo](https://sapna1231.vercel.app/) |
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img alt="Saurabh Bhandari GitHub Statistics" height="180" src="https://github-stats-extended.vercel.app/api?username=bhandarisaurabh500&show_icons=true&hide_rank=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Saurabh Bhandari Most Used Languages" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhandarisaurabh500&layout=compact&theme=tokyonight" />
 </div>
 
@@ -87,3 +88,5 @@ I am a Full Stack Developer passionate about building practical, real-world soft
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-bhandarisaurabh500-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhandarisaurabh500)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
